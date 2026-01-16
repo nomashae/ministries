@@ -1,0 +1,12 @@
+|Active Ministries|Ministries in Development|Ministries Coming Soon|
+|      :-:        |           :-:           |           :-:        |
+|                 | Ministry of Technology  | Ministry of Defence  |
+|                 |                         | Ministry of Tourism  |
+|                 |                         | Ministry of Internal Affairs|
+|                 |                         | Ministry of External Affairs|
+|                 |                         | Ministry of Finance & Treasury|
+|                 |                         | Ministry of Justice|
+|                 |                         | Ministry of Infrastructure & Public Works|
+|                 |                         | Ministry of Culture & Heritage|
+|                 |                         | Ministry of Education & Knowledge|
+|                 |                         | Ministry of Digital Environment & Natural Resources|
